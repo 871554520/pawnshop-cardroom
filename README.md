@@ -30,7 +30,7 @@
 
 ```powershell
 cd "D:\Steam\steamapps\common\Probably Stolen\Mods"
-git clone <仓库地址> pawnshop_cardroom
+git clone https://github.com/871554520/pawnshop-cardroom.git pawnshop_cardroom
 cd pawnshop_cardroom
 pwsh ./build.ps1
 ```
@@ -40,7 +40,7 @@ pwsh ./build.ps1
 **B. 仓库放别处，编译完自动装机**
 
 ```powershell
-git clone <仓库地址> D:\code\pawnshop-cardroom
+git clone https://github.com/871554520/pawnshop-cardroom.git D:\code\pawnshop-cardroom
 cd D:\code\pawnshop-cardroom
 pwsh ./build.ps1
 ```
