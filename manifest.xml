@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ID>pawnshop_cardroom</ID>
+  <Name>深空当铺：夜间棋牌室</Name>
+  <Author>871554520</Author>
+  <ModVersion>0.1.0</ModVersion>
+  <Description>卷帘门落下之后多一个去处：棋牌室。当前版本支持斗地主（3 人、随机地主、炸弹翻倍、输赢结算到现金）。</Description>
+  <GameVersions />
+  <Prerequisites />
+  <Assemblies>
+    <Assembly>PawnshopCardRoom.dll</Assembly>
+  </Assemblies>
+  <Capabilities />
+</Mod>
